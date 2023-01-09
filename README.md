@@ -21,6 +21,10 @@ running.
 
 At this time, there are no modules/packages needed for installation to get started.
 
+## Features
+
+* High score tracking
+
 ## Links
 
 - Repository: https://github.com/jupetta29/snake_game
